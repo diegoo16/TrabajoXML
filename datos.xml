@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE eventos SYSTEM "estructura.dtd">
+
+<eventos>
+    <evento codigo="E01">
+        <nombre>Clase Ip</nombre>
+        <dia>Miercoles</dia>
+        <asistente id="1">
+            <nombre>Ivan Bermejo</nombre>
+            <edad>32</edad>
+        </asistente>
+        <asistente id="2">
+            <nombre>Alvaro Brasero</nombre>
+            <edad>18</edad>
+        </asistente>
+    </evento>
+
+    <evento codigo="E02">
+        <nombre>Clase de Programación</nombre>
+        <dia>Lunes</dia>
+        <asistente id="3">
+            <nombre>Carlos</nombre>
+            <edad>19</edad>
+        </asistente>
+    </evento>
+
+    <evento codigo="E03">
+        <nombre>Clase de lenguaje de marcas</nombre>
+        <dia>Martes</dia>
+        <asistente id="4">
+            <nombre>Javier Vega</nombre>
+            <edad>18</edad>
+        </asistente>
+    </evento>
+
+    <evento codigo="E04">
+        <nombre>Clase de ingles</nombre>
+        <dia>Jueves</dia>
+        <asistente id="4">
+            <nombre>Diego Gárgoles</nombre>
+            <edad>19</edad>
+        </asistente>
+    </evento>
+</eventos>
