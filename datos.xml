@@ -6,8 +6,8 @@
         <nombre>Clase Ip</nombre>
         <dia>Miercoles</dia>
         <asistente id="1">
-            <nombre>Ivan Bermejo</nombre>
-            <edad>32</edad>
+            <nombre>Sonia</nombre>
+            <edad>36</edad>
         </asistente>
         <asistente id="2">
             <nombre>Alvaro Brasero</nombre>
@@ -19,8 +19,8 @@
         <nombre>Clase de Programación</nombre>
         <dia>Lunes</dia>
         <asistente id="3">
-            <nombre>Carlos</nombre>
-            <edad>19</edad>
+            <nombre>Dani</nombre>
+            <edad>25</edad>
         </asistente>
     </evento>
 
@@ -28,17 +28,17 @@
         <nombre>Clase de lenguaje de marcas</nombre>
         <dia>Martes</dia>
         <asistente id="4">
-            <nombre>Javier Vega</nombre>
-            <edad>18</edad>
+            <nombre>Aitor</nombre>
+            <edad>80</edad>
         </asistente>
     </evento>
 
     <evento codigo="E04">
         <nombre>Clase de ingles</nombre>
         <dia>Jueves</dia>
-        <asistente id="4">
-            <nombre>Diego Gárgoles</nombre>
-            <edad>19</edad>
+        <asistente id="5">
+            <nombre>Roberto</nombre>
+            <edad>34</edad>
         </asistente>
     </evento>
 </eventos>
