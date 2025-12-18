@@ -1,0 +1,12 @@
+<!ELEMENT eventos (evento+)>
+
+<!ELEMENT evento (nombre, dia, asistente+)>
+<!ATTLIST evento codigo CDATA #REQUIRED>
+
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT dia (#PCDATA)>
+
+<!ELEMENT asistente (nombre, edad)>
+<!ATTLIST asistente id CDATA #REQUIRED>
+
+<!ELEMENT edad (#PCDATA)>
